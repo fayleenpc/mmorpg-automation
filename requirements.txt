@@ -1,0 +1,10 @@
+pywin32
+numpy
+Pillow
+opencv-python
+jupyter
+pynput
+pyautogui
+asyncio
+websockets
+pydirectinput
